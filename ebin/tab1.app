@@ -1,0 +1,7 @@
+{application,tab1,
+             [{description,"An Erlang tab1 library"},
+              {vsn,"1"},
+              {modules,[tab1]},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {env,[]}]}.
